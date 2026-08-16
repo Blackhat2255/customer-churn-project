@@ -1,0 +1,12 @@
+Metric,Value
+Total Customers,7043.0
+Predicted Churn Customers,2609.0
+High-Risk Customers,581.0
+Medium-Risk Customers,2028.0
+Low-Risk Customers,4434.0
+Overall Average Churn Probability,0.26532879549404426
+High-Risk Monthly Revenue,47539.35
+High-Risk Annual Revenue,570472.2
+Probability-Weighted Monthly Revenue Risk,138997.88901032147
+Probability-Weighted Annual Revenue Risk,1667974.6681238576
+Final Business Threshold,0.3
